@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anushaaaan
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning basics of programming using C and Web Decelopment.
+- 🌱 I’m currently learning iOS Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
